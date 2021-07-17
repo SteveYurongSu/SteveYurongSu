@@ -1,17 +1,19 @@
-<p align="center">
-  <h3 align="center">👋 Hi there, this is Steve.</h3>
-  <p align="center"><b>Nice to meet you here!</b></p>
-</p>
+## 👋 👋 👋 Hey there, this is Steve.
+
 <br>
-<p align="center">
-  <p align="center"><b>🎓 First-year Master Student at Tsinghua University</b></p>
-  <p align="center"><b>💻 Majoring in Software Engineering</b></p>
-  <p align="center"><b>🚀 Apache IoTDB Committer</b></p>
-  <p align="center"><b>📫 rong@apache.org</b></p>
-</p>
+
+<a>
+  <img align="right" width="30%" src="https://user-images.githubusercontent.com/30497621/126047807-d6858c6e-2049-4f77-b8af-f9998d1649da.jpeg"/>
+</a>
+
+- 🎓 Second-year Master Student at Tsinghua University
+- 💻 Majoring in Software Engineering
+- 🚀 Apache IoTDB Committer
+- 📫 rong@apache.org
+- ☎️ Scan the QR Code to add me on WeChat
+
 <br>
 
 > *One day, somewhere, somehow, we shall build one building which is wonderful, beautiful, breathtaking, a place where people can walk and dream for centuries.*
 >
 > *Christopher Alexander*
-
