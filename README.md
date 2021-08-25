@@ -18,6 +18,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#21](https://github.com/SteveYurongSu/iotdb/pull/21) in [SteveYurongSu/iotdb](https://github.com/SteveYurongSu/iotdb)
+2. ❌ Closed PR [#3827](https://github.com/apache/iotdb/pull/3827) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 💪 Opened PR [#3827](https://github.com/apache/iotdb/pull/3827) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 💪 Opened PR [#3823](https://github.com/apache/iotdb/pull/3823) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🗣 Commented on [#3812](https://github.com/apache/iotdb/issues/3812) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 <br>
