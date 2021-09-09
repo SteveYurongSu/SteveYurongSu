@@ -7,10 +7,8 @@
 ### About Me
 - 🎓 Second-year Master Student at Tsinghua University
 - 💻 Majoring in Software Engineering
-
-
-
 - 📫 **Email:** rong@apache.org
+
 - ☎️ **WeChat:** Scan the QR Code to add me
 - 😆 **Q&A:** Ask me anything <a href="https://github.com/SteveYurongSu/SteveYurongSu/issues">here</a>
 
@@ -30,6 +28,11 @@
 
 #### 🚀 [Apache EventMesh (incubating)](https://github.com/apache/incubator-eventmesh/pulls?q=is%3Apr+author%3ASteveYurongSu)
 
+* CI/CD Workflows
+* ...
+
+<br>
+
 
 
 ### Recent Activities
@@ -42,8 +45,11 @@
 5. 💪 Opened PR [#24](https://github.com/SteveYurongSu/iotdb/pull/24) in [SteveYurongSu/iotdb](https://github.com/SteveYurongSu/iotdb)
 <!--END_SECTION:activity-->
 
-<br>
+<br><br>
+
+
 
 > *One day, somewhere, somehow, we shall build one building which is wonderful, beautiful, breathtaking, a place where people can walk and dream for centuries.*
 >
 > *Christopher Alexander*
+
