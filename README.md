@@ -12,13 +12,13 @@
 
 - 🚀 **Apache IoTDB Committer.**
 
-  ​		**My contributions:**
+  ​		**My [contributions](https://github.com/apache/iotdb/pulls?q=is%3Apr+author%3ASteveYurongSu):**
 
   - Query Engine: Functions (UDF Framework), Arithmetic Operators and Nested Expressions
   - Continuous Queries (CQ)
   - Materialized Views (`SELECT ... INTO ...`)
-
   - Triggers (Java Hooks)
+  - ...
 
   
 
