@@ -1,20 +1,18 @@
-# 👋 Hey there, this is Steve!
-
-<a>
-  <img align="right" width="30%" src="https://user-images.githubusercontent.com/30497621/126047807-d6858c6e-2049-4f77-b8af-f9998d1649da.jpeg"/>
-</a>
+## 👋 Hey there, this is Steve!
 
 ### About Me
-- 🎓 Second-year Master Student at Tsinghua University
-- 💻 Majoring in Software Engineering
-- 📫 **Email:** rong@apache.org
 
-- ☎️ **WeChat:** Scan the QR Code to add me
-- 😆 **Q&A:** Ask me anything <a href="https://github.com/SteveYurongSu/SteveYurongSu/issues">here</a>
+🎓 Second-year Master Student at Tsinghua University
+
+💻 Majoring in Software Engineering
+
+📫 **Email:** rong@apache.org
+
+☎️ **WeChat:** Scan the [QR Code](https://github.com/SteveYurongSu/SteveYurongSu/issues/1) to add me
+
+😆 **Q&A:** Ask me anything <a href="https://github.com/SteveYurongSu/SteveYurongSu/issues">here</a>
 
 <br>
-
-
 
 ### Community Contributions
 
@@ -32,8 +30,6 @@
 * ...
 
 <br>
-
-
 
 ### Recent Activities
 <!--START_SECTION:activity-->
