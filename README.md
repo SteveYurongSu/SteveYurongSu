@@ -32,11 +32,11 @@
 ### Recent Activities
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4161](https://github.com/apache/iotdb/pull/4161) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🎉 Merged PR [#9](https://github.com/apache/iotdb-bin-resources/pull/9) in [apache/iotdb-bin-resources](https://github.com/apache/iotdb-bin-resources)
-3. 💪 Opened PR [#4161](https://github.com/apache/iotdb/pull/4161) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🎉 Merged PR [#4148](https://github.com/apache/iotdb/pull/4148) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🎉 Merged PR [#8](https://github.com/apache/iotdb-bin-resources/pull/8) in [apache/iotdb-bin-resources](https://github.com/apache/iotdb-bin-resources)
+1. 🎉 Merged PR [#10](https://github.com/apache/iotdb-bin-resources/pull/10) in [apache/iotdb-bin-resources](https://github.com/apache/iotdb-bin-resources)
+2. 🎉 Merged PR [#4161](https://github.com/apache/iotdb/pull/4161) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🎉 Merged PR [#9](https://github.com/apache/iotdb-bin-resources/pull/9) in [apache/iotdb-bin-resources](https://github.com/apache/iotdb-bin-resources)
+4. 💪 Opened PR [#4161](https://github.com/apache/iotdb/pull/4161) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🎉 Merged PR [#4148](https://github.com/apache/iotdb/pull/4148) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 ---
