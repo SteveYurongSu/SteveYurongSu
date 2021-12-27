@@ -1,13 +1,13 @@
 ## 👋 Hey there, this is Steve!
 
+<img align='right' src="https://api.githubtrends.io/user/svg/SteveYurongSu/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" width="325">
+
 [![Years Badge](https://badges.pufler.dev/years/SteveYurongSu)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/SteveYurongSu)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/SteveYurongSu)](https://badges.pufler.dev)
 [![GitHub Thaiane](https://img.shields.io/github/followers/SteveYurongSu?label=follow&style=social)](https://github.com/SteveYurongSu)
 
 ### About Me
-
-<img align='right' src="https://api.githubtrends.io/user/svg/SteveYurongSu/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=classic" width="300">
 
 **🎓 Second-year master student at [Tsinghua University](https://www.tsinghua.edu.cn/)**
 
