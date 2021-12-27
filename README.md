@@ -7,6 +7,8 @@
 
 ### About Me
 
+<img align='right' src="https://api.githubtrends.io/user/svg/SteveYurongSu/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=classic" width="333">
+
 **🎓 Second-year master student at [Tsinghua University](https://www.tsinghua.edu.cn/)**
 
 **💻 Majoring in Software Engineering**
