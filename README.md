@@ -1,6 +1,6 @@
 ## 👋 Hey there, this is Steve!
 
-<img align='right' src="https://api.githubtrends.io/user/svg/SteveYurongSu/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" width="325">
+<img align='right' src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="325">
 
 [![Years Badge](https://badges.pufler.dev/years/SteveYurongSu)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/SteveYurongSu)](https://badges.pufler.dev)
