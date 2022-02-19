@@ -50,6 +50,6 @@
 
 ---
 
-> *One day, somewhere, somehow, we shall build one building which is wonderful, beautiful, breathtaking, a place where people can walk and dream for centuries.*
+> *That one day, somewhere, somehow, we shall build one building which is wonderful, beautiful, breathtaking, a place where people can walk and dream for centuries.*
 >
 > *Christopher Alexander*
