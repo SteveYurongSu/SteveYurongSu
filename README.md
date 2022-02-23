@@ -4,8 +4,6 @@
 
 [![Years Badge](https://badges.pufler.dev/years/SteveYurongSu)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/SteveYurongSu)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/SteveYurongSu)](https://badges.pufler.dev)
-
 [![Profile Visitors Badge](https://visitor-badge.glitch.me/badge?page_id=SteveYurongSu.SteveYurongSu)](https://github.com/SteveYurongSu)
 [![GitHub Thaiane](https://img.shields.io/github/followers/SteveYurongSu?label=follow&style=social)](https://github.com/SteveYurongSu)
 
