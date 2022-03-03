@@ -39,11 +39,11 @@
 ### Recent Activities
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5149](https://github.com/apache/iotdb/pull/5149) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🗣 Commented on [#5136](https://github.com/apache/iotdb/issues/5136) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🎉 Merged PR [#5124](https://github.com/apache/iotdb/pull/5124) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🗣 Commented on [#2263](https://github.com/VictoriaMetrics/VictoriaMetrics/issues/2263) in [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)
-5. 🎉 Merged PR [#5132](https://github.com/apache/iotdb/pull/5132) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 🎉 Merged PR [#4535](https://github.com/apache/iotdb/pull/4535) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🎉 Merged PR [#5149](https://github.com/apache/iotdb/pull/5149) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🗣 Commented on [#5136](https://github.com/apache/iotdb/issues/5136) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🎉 Merged PR [#5124](https://github.com/apache/iotdb/pull/5124) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🗣 Commented on [#2263](https://github.com/VictoriaMetrics/VictoriaMetrics/issues/2263) in [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)
 <!--END_SECTION:activity-->
 
 ---
