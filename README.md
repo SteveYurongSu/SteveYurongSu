@@ -40,11 +40,11 @@
 ### Recent Activities
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5104](https://github.com/apache/iotdb/pull/5104) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🗣 Commented on [#3](https://github.com/SteveYurongSu/SteveYurongSu/issues/3) in [SteveYurongSu/SteveYurongSu](https://github.com/SteveYurongSu/SteveYurongSu)
-3. 🎉 Merged PR [#5290](https://github.com/apache/iotdb/pull/5290) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🎉 Merged PR [#5257](https://github.com/apache/iotdb/pull/5257) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🗣 Commented on [#5233](https://github.com/apache/iotdb/issues/5233) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 🎉 Merged PR [#5297](https://github.com/apache/iotdb/pull/5297) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🎉 Merged PR [#5298](https://github.com/apache/iotdb/pull/5298) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🎉 Merged PR [#5292](https://github.com/apache/iotdb/pull/5292) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🗣 Commented on [#5273](https://github.com/apache/iotdb/issues/5273) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🎉 Merged PR [#5104](https://github.com/apache/iotdb/pull/5104) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 ---
