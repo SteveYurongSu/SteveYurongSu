@@ -40,11 +40,11 @@
 ### Recent Activities
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#270](https://github.com/thulab/iotdb-benchmark/issues/270) in [thulab/iotdb-benchmark](https://github.com/thulab/iotdb-benchmark)
-2. 🎉 Merged PR [#5577](https://github.com/apache/iotdb/pull/5577) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🎉 Merged PR [#5569](https://github.com/apache/iotdb/pull/5569) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🗣 Commented on [#5366](https://github.com/apache/iotdb/issues/5366) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🎉 Merged PR [#5366](https://github.com/apache/iotdb/pull/5366) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 🎉 Merged PR [#21](https://github.com/apache/iotdb-bin-resources/pull/21) in [apache/iotdb-bin-resources](https://github.com/apache/iotdb-bin-resources)
+2. 🎉 Merged PR [#5495](https://github.com/apache/iotdb/pull/5495) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🗣 Commented on [#270](https://github.com/thulab/iotdb-benchmark/issues/270) in [thulab/iotdb-benchmark](https://github.com/thulab/iotdb-benchmark)
+4. 🎉 Merged PR [#5577](https://github.com/apache/iotdb/pull/5577) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🎉 Merged PR [#5569](https://github.com/apache/iotdb/pull/5569) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 ---
