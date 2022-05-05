@@ -19,24 +19,6 @@
 
 **😆 Ask me anything <a href="https://github.com/SteveYurongSu/SteveYurongSu/issues">here</a>**
 
-### Community Contributions
-
-#### 🚀 [Apache IoTDB](https://github.com/apache/iotdb/pulls?q=is%3Apr+author%3ASteveYurongSu)
-
-- Query Engine
-  - Function Framework (Function Management & Execution, Builtin Functions, UDF Support)
-  - Arithmetic Operators (`+`, `-`, `*`, `/`, `%`)
-  - Nested Expressions
-- Continuous Queries
-- Materialized Views (`SELECT ... INTO ...`)
-- Triggers (Java Hooks)
-- *Release Manager of [v0.12.5](https://github.com/apache/iotdb/releases/tag/v0.12.5)*
-
-#### 🚀 [Apache EventMesh (incubating)](https://github.com/apache/incubator-eventmesh/pulls?q=is%3Apr+author%3ASteveYurongSu)
-
-- CI/CD Workflows (Build, Code Coverage Report, Code Quality Report, License Check, Greetings for Newbies)
-- Issue Templates & PR Templates 
-
 ### Recent Activities
 <!--START_SECTION:activity-->
 
