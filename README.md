@@ -1,11 +1,13 @@
 <img align='right' src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="325">
 
-## 👋 Hi there, this is Steve! [![GitHub Thaiane](https://img.shields.io/github/followers/SteveYurongSu?label=follow&style=social)](https://github.com/SteveYurongSu)
+# 👋 Hi there, this is Steve! [![GitHub Thaiane](https://img.shields.io/github/followers/SteveYurongSu?label=follow&style=social)](https://github.com/SteveYurongSu)
 
 
-<!-- [![Years Badge](https://badges.pufler.dev/years/SteveYurongSu)](https://badges.pufler.dev) -->
-<!-- [![Repos Badge](https://badges.pufler.dev/repos/SteveYurongSu)](https://badges.pufler.dev) -->
-<!-- [![Profile Visitors Badge](https://visitor-badge.glitch.me/badge?page_id=SteveYurongSu.SteveYurongSu)](https://github.com/SteveYurongSu) -->
+[![Years Badge](https://badges.pufler.dev/years/SteveYurongSu)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/SteveYurongSu)](https://badges.pufler.dev)
+[![Profile Visitors Badge](https://visitor-badge.glitch.me/badge?page_id=SteveYurongSu.SteveYurongSu)](https://github.com/SteveYurongSu)
+
+</br>
 
 ### About Me
 
@@ -19,6 +21,8 @@
 
 **😆 Ask me anything <a href="https://github.com/SteveYurongSu/SteveYurongSu/issues">here</a>**
 
+</br>
+
 ### Recent Activities
 <!--START_SECTION:activity-->
 
@@ -28,6 +32,8 @@
 4. 🗣 Commented on [#5773](https://github.com/apache/iotdb/issues/5773) in [apache/iotdb](https://github.com/apache/iotdb)
 5. 🎉 Merged PR [#5756](https://github.com/apache/iotdb/pull/5756) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
+
+</br>
 
 ---
 
