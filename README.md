@@ -6,7 +6,7 @@
 
 ### About Me
 
-**🎓 Second-year master student at [Tsinghua University](https://www.tsinghua.edu.cn/)**
+**🎓 Third-year master student at [Tsinghua University](https://www.tsinghua.edu.cn/)**
 
 **💻 Majoring in Software Engineering**
 
