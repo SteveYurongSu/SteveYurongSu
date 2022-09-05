@@ -19,11 +19,11 @@
 ### Recent Activities
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6892](https://github.com/apache/iotdb/pull/6892) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🎉 Merged PR [#16](https://github.com/SteveYurongSu/apache-iotdb-nightly-releases/pull/16) in [SteveYurongSu/apache-iotdb-nightly-releases](https://github.com/SteveYurongSu/apache-iotdb-nightly-releases)
-3. 🎉 Merged PR [#6890](https://github.com/apache/iotdb/pull/6890) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🎉 Merged PR [#6268](https://github.com/apache/iotdb/pull/6268) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🎉 Merged PR [#33](https://github.com/apache/iotdb-bin-resources/pull/33) in [apache/iotdb-bin-resources](https://github.com/apache/iotdb-bin-resources)
+1. 🎉 Merged PR [#7230](https://github.com/apache/iotdb/pull/7230) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🎉 Merged PR [#6892](https://github.com/apache/iotdb/pull/6892) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🎉 Merged PR [#16](https://github.com/SteveYurongSu/apache-iotdb-nightly-releases/pull/16) in [SteveYurongSu/apache-iotdb-nightly-releases](https://github.com/SteveYurongSu/apache-iotdb-nightly-releases)
+4. 🎉 Merged PR [#6890](https://github.com/apache/iotdb/pull/6890) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🎉 Merged PR [#6268](https://github.com/apache/iotdb/pull/6268) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 ---
