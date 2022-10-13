@@ -1,8 +1,6 @@
 <!-- <img align='right' src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="325"> -->
 
-# 👋 Hi there, this is Steve! 
-[![Profile Visitors Badge](https://visitor-badge.glitch.me/badge?page_id=SteveYurongSu.SteveYurongSu)](https://github.com/SteveYurongSu)
-[![GitHub Thaiane](https://img.shields.io/github/followers/SteveYurongSu?label=follow&style=social)](https://github.com/SteveYurongSu)
+# 👋 Hi there, this is Steve! [![GitHub Thaiane](https://img.shields.io/github/followers/SteveYurongSu?label=follow&style=social)](https://github.com/SteveYurongSu)
 
 ### About Me
 
