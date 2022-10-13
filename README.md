@@ -19,11 +19,11 @@
 ### Recent Activities
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#14](https://github.com/SteveYurongSu/incubator-eventmesh/pull/14) in [SteveYurongSu/incubator-eventmesh](https://github.com/SteveYurongSu/incubator-eventmesh)
-2. 🎉 Merged PR [#17](https://github.com/SteveYurongSu/apache-iotdb-nightly-releases/pull/17) in [SteveYurongSu/apache-iotdb-nightly-releases](https://github.com/SteveYurongSu/apache-iotdb-nightly-releases)
-3. 🎉 Merged PR [#7230](https://github.com/apache/iotdb/pull/7230) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🎉 Merged PR [#6892](https://github.com/apache/iotdb/pull/6892) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🎉 Merged PR [#16](https://github.com/SteveYurongSu/apache-iotdb-nightly-releases/pull/16) in [SteveYurongSu/apache-iotdb-nightly-releases](https://github.com/SteveYurongSu/apache-iotdb-nightly-releases)
+1. 🎉 Merged PR [#7570](https://github.com/apache/iotdb/pull/7570) in [apache/iotdb](https://github.com/apache/iotdb)
+2. ❌ Closed PR [#14](https://github.com/SteveYurongSu/incubator-eventmesh/pull/14) in [SteveYurongSu/incubator-eventmesh](https://github.com/SteveYurongSu/incubator-eventmesh)
+3. 🎉 Merged PR [#17](https://github.com/SteveYurongSu/apache-iotdb-nightly-releases/pull/17) in [SteveYurongSu/apache-iotdb-nightly-releases](https://github.com/SteveYurongSu/apache-iotdb-nightly-releases)
+4. 🎉 Merged PR [#7230](https://github.com/apache/iotdb/pull/7230) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🎉 Merged PR [#6892](https://github.com/apache/iotdb/pull/6892) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 ---
